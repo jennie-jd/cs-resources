@@ -1,1 +1,1 @@
-# A place to keep notes of software development learnings
+# Notes for Development Learning
