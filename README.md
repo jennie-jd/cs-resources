@@ -1,1 +1,1 @@
-# Note-taking repo for software development learnings
+# Note-taking for software development learnings
