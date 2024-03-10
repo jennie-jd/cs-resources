@@ -1,1 +1,1 @@
-# Note-taking for software development learnings
+# Note-Taking for Software Development Learnings
