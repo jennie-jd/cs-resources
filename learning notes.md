@@ -13,7 +13,7 @@
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-### <font color="blue">My takeaways along the way</font>
+## My takeaways along the way
 ~ *March 14, 2024* ~  
 I made progress on submitting the first PR to the first-contributions repo.  
 I searched some "good first issues" repository but found a lot of repos are not active; I want to find active and good repos.  
