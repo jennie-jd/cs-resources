@@ -14,9 +14,12 @@
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ## My takeaways along the way
-~ *March 14, 2024* ~  
-I made progress on submitting the first PR to the first-contributions repo.  
-I searched some "good first issues" repository but found a lot of repos are not active; I want to find active and good repos.  
+
+March 15, 2024
+
+Made progress on submitting the first PR to the first-contributions repo.  
+Searched some "good first issues" repository but found a lot of repos are not active; I want to find active and good repos.  
+Also tried to add colored texts to this github md file, but found that colored texts are not supported.  
 <img src="https://github.com/jennie-jd/learning-notes/assets/52141333/e9658c69-cc92-41d5-b342-a0c128ddb0a2" width="200" height="120" alt="image">
-Kitty says I can do it! 😊
+Keep going. Kitty says I can do it! 😊
 
