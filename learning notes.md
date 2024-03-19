@@ -7,10 +7,10 @@
     - [Active repos for contributing](https://github.com/csdojo-defaang/active-repos-for-contributing)
     - [YK's open source project](https://github.com/ykdojo/defaang)
 
-- [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE) (watched once; to watch again)
+- [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE) (watched once; a lot of details; maybe watch again later)
 
 ### Introductions to git and github
-- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) (in progress)
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ## My takeaways along the way
