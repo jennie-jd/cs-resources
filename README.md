@@ -70,16 +70,14 @@ Git theoretical knowledge
 
 ## Keeping track of my takeaways 😊
 
-March 15, 2024
-
+_**March 15, 2024**_  
 Made progress on submitting the first PR to the first-contributions repo.  
 Searched some "good first issues" repository but found a lot of repos are not active; I want to find active and good repos.  
 Also tried to add colored texts to this github md file, but found that colored texts are not supported.  
 <img src="https://github.com/jennie-jd/learning-notes/assets/52141333/e9658c69-cc92-41d5-b342-a0c128ddb0a2" width="200" height="120" alt="image">
 Keep going. Kitty says I can do it! 😙
 
-March 19, 2024
-
+_**March 19, 2024**_  
 Got some good suggestions on how to start githubbing from 1point3acres and xiao hong shu. Will try their suggestions to get started. A few key points:
 - my No.1 goal is to improve technical skills
 - an important aspect of open sourcing is to find the right project
