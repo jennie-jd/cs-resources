@@ -23,7 +23,8 @@ https://github.com/vinta/awesome-python
 https://github.com/search?q=language:python++stars:%3E500++topic:web&type=repositories&s=updated&o=desc
 > 
 > 希望更快地了解整个 development 过程并且开始阅读 system design 那本书。 是不是应该选择一个 repo 深度钻研呢？  
-找一个有完整 setup 流程的 repo follow contribution guideline 来了解流程, e.g. https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia  
+找一个有完整 setup 流程的 repo follow contribution guideline 来了解流程  
+e.g. https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia  
 根据 system design 的 topic keyword 找 wiki 详细的 repo。
 > 
 > 而不是选好几个 repo 这里做做翻译那里改改 typo?  
