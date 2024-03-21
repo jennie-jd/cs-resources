@@ -79,7 +79,7 @@ Keep going. Kitty says I can do it! 😙
 
 _**March 19, 2024**_  
 Got some good suggestions on how to start githubbing from 1point3acres and xiao hong shu. Will try their suggestions to get started. A few key points:
-- my No.1 goal is to improve technical skills
-- an important aspect of open sourcing is to find the right project
-- find a repo that I am truly interested in, understand it deeply, and keep contributing
-- there are setup videos or online courses which may be more helpful than open source in explaining SW development process
+- My No.1 goal is to improve technical skills
+- An important aspect of open sourcing is to find the right project
+- Find a repo that I am truly interested in, understand it deeply, and keep contributing
+- There are setup videos or online courses which may be more helpful than open source in explaining SW development process
