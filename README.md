@@ -1,4 +1,4 @@
-# Notes on Software Development Learning
+# Learning Notes for Software Engineering
 
 ## Useful next steps
 
@@ -41,7 +41,7 @@ Suggestions from person 2
 Suggestions from person 3
 > 最好的办法还是在工作中学习，如果实在想自学的话，可以研究一下大型的API library，例如我前些时调用的google-api-java-client-services。我在payment组，前些时做Google Play的升级  
 
-Useful discussions and channels
+Useful discussions and channels for git/open source
 - My posts on 1point3acres
 - My posts on xiao hong shu
 - Discord channel Hacktoberfest
@@ -50,6 +50,12 @@ Useful discussions and channels
 Git theoretical knowledge
 - [经验总结] 【开心果原创】Git新手入门教程 https://www.1point3acres.com/bbs/thread-1014711-1-1.html
 - https://learngitbranching.js.org/
+
+Useful things to learn as a beginner SWE
+- Conversation with Steve (Upenn) on linkedin
+  - Git
+  - System design
+  - Something else?
 
 ## More resources
 
