@@ -72,7 +72,7 @@ Useful things to learn as a beginner SWE
 
 ### Introductions to git and github
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) (in progress)
-- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) (in progress)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) (not started)
 
 ## Keeping track of my takeaways 😊
 
@@ -89,3 +89,7 @@ Got some good suggestions on how to start githubbing from 1point3acres and xiao 
 - An important aspect of open sourcing is to find the right project
 - Find a repo that I am truly interested in, understand it deeply, and keep contributing
 - There are setup videos or online courses which may be more helpful than open source in explaining SW development process
+
+_**March 25, 2024**_  
+After trying a couple times with the first-contributions repo, I am getting a gist of git and feel great about it.  
+It's important to understand the git trees as the next step, so I can be confident about making changes whenever using a version control system.
