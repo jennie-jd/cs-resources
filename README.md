@@ -93,3 +93,6 @@ Got some good suggestions on how to start githubbing from 1point3acres and xiao 
 _**March 25, 2024**_  
 After trying a couple times with the first-contributions repo, I am getting a gist of git and feel great about it.  
 It's important to understand the git trees as the next step, so I can be confident about making changes whenever using a version control system.
+
+_**March 28, 2024**_  
+I made another PR to a public repo and got accepted. Feel great to make progress on more achievements!
