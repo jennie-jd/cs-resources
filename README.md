@@ -96,3 +96,7 @@ It's important to understand the git trees as the next step, so I can be confide
 
 _**March 28, 2024**_  
 I made another PR to a public repo and got accepted. Feel great to make progress on more achievements!
+
+_**March 31, 2024**_  
+Found that chatgpt has a gptstore where people can customize gpt and make money out of high user volumes of the customized gpt functions. I will try to make some gpt tools!
+
