@@ -70,4 +70,4 @@ Useful things to learn as a beginner SWE
 
 ### Introductions to git and github
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) (in progress)
-- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) (not started)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) (in progress)
