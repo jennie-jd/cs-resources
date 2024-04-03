@@ -8,7 +8,7 @@ Also tried to add colored texts to this github md file, but found that colored t
 Keep going. Kitty says I can do it! 😙
 
 _**March 19, 2024**_  
-Got some good suggestions on how to start githubbing from 1point3acres and xiao hong shu. Will try their suggestions to get started. A few key points:
+Got some good suggestions on how to start githubbing. Will try their suggestions to get started. A few key points:
 - My No.1 goal is to improve technical skills
 - An important aspect of open sourcing is to find the right project
 - Find a repo that I am truly interested in, understand it deeply, and keep contributing
@@ -22,5 +22,5 @@ _**March 28, 2024**_
 I made another PR to a public repo and got accepted. Feel great to make progress on more achievements!
 
 _**March 31, 2024**_  
-Found that chatgpt has a gptstore where people can customize gpt and make money out of high user volumes of the customized gpt functions. I will try to make some gpt tools!
+Found that chatgpt has a gptstore where people can customize gpt and get paid if the user volume is high. I can try to make some gpt tools.
 
