@@ -1,6 +1,6 @@
 ## A place to keep my notes of learning software engineering
 
-**Today's mood: relaxed**
+**Today's mood: energetic**
 
 
 
