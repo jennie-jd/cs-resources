@@ -1,4 +1,4 @@
-## Keeping track of my takeaways 😊
+## Takeaways 😊
 
 _**March 15, 2024**_  
 Made progress on submitting the first PR to the first-contributions repo.  
