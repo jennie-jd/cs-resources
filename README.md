@@ -1,4 +1,4 @@
-## A repo to keep the takeaways from learning software engineering
+## A repo to keep log of learning software engineering
 
 **Today's mood: energetic**
 
