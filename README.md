@@ -1,6 +1,6 @@
 ## A repo to keep log of learning software engineering
 
-**Today's mood: energetic**
+**Today's mood: tired**
 
 
 
