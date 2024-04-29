@@ -14,3 +14,6 @@ Learned about how to open git commit editor from terminal
 _**April 17, 2024**_  
 Opening git commit editor from terminal actually pops up vim  
 **To Do** - learn vim; the shortcuts can be very helpful to productivity
+
+_**April 28, 2024**_  
+Started system design video 1
