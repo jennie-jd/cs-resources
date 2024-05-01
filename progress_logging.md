@@ -17,3 +17,6 @@ Opening git commit editor from terminal actually pops up vim
 
 _**April 28, 2024**_  
 Started system design video 1
+
+_**May 1, 2024**_  
+Started system design video 2
