@@ -20,3 +20,6 @@ Started system design video 1
 
 _**May 1, 2024**_  
 Started system design video 2
+
+_**May 2, 2024**_  
+Learning about multi-threading and event driven programming
