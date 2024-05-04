@@ -1,4 +1,4 @@
-## A repo to keep log of learning software engineering
+## A repo to keep log of CS resources and SWE learning
 
 **Today's mood: relaxed**
 
