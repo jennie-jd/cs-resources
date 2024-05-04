@@ -26,3 +26,6 @@ Learning about multi-threading and event driven programming
 
 _**May 3, 2024**_  
 Starting NLP class at school
+
+_**May 4, 2024**_  
+Learning about sentiment analysis
