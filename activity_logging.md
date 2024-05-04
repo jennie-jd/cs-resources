@@ -1,4 +1,4 @@
-## Progress logging
+## Activity logging
 
 Future **To Do** items are marked in bold to remind myself.
 
