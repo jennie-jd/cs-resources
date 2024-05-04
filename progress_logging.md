@@ -23,3 +23,6 @@ Started system design video 2
 
 _**May 2, 2024**_  
 Learning about multi-threading and event driven programming
+
+_**May 3, 2024**_  
+Starting NLP class at school
