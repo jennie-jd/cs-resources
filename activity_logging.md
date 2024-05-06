@@ -2,8 +2,15 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 6, 2024**_  
+Refreshing regex knowledge for NLP
+
 _**May 5, 2024**_  
 Refreshing memory of jupiter notebook and testing github copilot vs chatgpt
+- chatgpt is cleaner to use and start new dialogues to get rid of prior conversation's influenced
+- copilot is easier to use inline to ask questions and let it modify the codes directly
+- neither is able to replace human because they don't interpret the exact instructions without human help
+<br></br>
 
 _**May 4, 2024**_  
 Learning about sentiment analysis
