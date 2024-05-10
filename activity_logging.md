@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 10, 2024**_  
+Refreshing memories of logistic regression for language models
+
 _**May 7, 2024**_  
 Learning about the topic of tokenization for NLP
 
