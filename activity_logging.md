@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 11, 2024**_  
+Learning about gradient descent training
+
 _**May 10, 2024**_  
 Refreshing memories of logistic regression for language models
 
