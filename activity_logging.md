@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 13, 2024**_  
+Gradient descent is used in a wide range of real life applications
+
 _**May 11, 2024**_  
 Learning about gradient descent training
 
