@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 15, 2024**_  
+Learned that Python is the most popular language for NLP, and different organizations have developed NLP packages like nltk, spaCy, stanza, and Transformers etc.
+
 _**May 13, 2024**_  
 Gradient descent is used in a wide range of real life applications
 
