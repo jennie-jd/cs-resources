@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 16, 2024**_  
+Starting hw2 part 1 and refreshing memories of precision and recall
+
 _**May 15, 2024**_  
 Learned that Python is the most popular language for NLP, and different organizations have developed NLP packages like nltk, spaCy, stanza, and Transformers etc.
 
