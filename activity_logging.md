@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 19, 2024**_  
+Training a simple classification model for "complex" versus "simple" words
+
 _**May 17, 2024**_  
 Hugging face is the "github" for ML and NLP, so I registered for a hugging face account to check it out
 
