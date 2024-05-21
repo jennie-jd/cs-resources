@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 20, 2024**_  
+Training usually divides data into training, development and test datasets to find the best fit and avoid over-fitting.
+
 _**May 19, 2024**_  
 Training a simple classification model for "complex" versus "simple" words
 
