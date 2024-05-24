@@ -2,7 +2,10 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
-_**May 20, 2024**_  
+_**May 24, 2024**_  
+Precision and recall are inversely related, so the optimization comes from a balance of them (the fscore).
+
+_**May 23, 2024**_  
 Precision, recall and fscore are used to evaluate training models.
 
 _**May 20, 2024**_  
