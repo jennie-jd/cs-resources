@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 26, 2024**_  
+Used sklearn to fit some Naive Bayes and Logistic Regression models :)
+
 _**May 24, 2024**_  
 Precision and recall are inversely related, so the optimization comes from a balance of them (the fscore).
 
