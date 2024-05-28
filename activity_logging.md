@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 28, 2024**_  
+Features need to be normalized before being fed to the trainig models.
+
 _**May 27, 2024**_  
 Testing SVM, Decision Trees, and Random Forest models :)
 
