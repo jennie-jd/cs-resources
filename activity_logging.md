@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 27, 2024**_  
+Testing SVM, Decision Trees, and Random Forest models :)
+
 _**May 26, 2024**_  
 Used sklearn to fit some Naive Bayes and Logistic Regression models :)
 
