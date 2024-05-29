@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 29, 2024**_  
+Learning about N-gram language models.
+
 _**May 28, 2024**_  
 Features need to be normalized before being fed to the trainig models.
 
