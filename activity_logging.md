@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**May 31, 2024**_  
+Starting a small-size N-gram language model training.
+
 _**May 29, 2024**_  
 Learning about N-gram language models.
 
