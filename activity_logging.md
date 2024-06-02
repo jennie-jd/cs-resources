@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 2, 2024**_  
+Building blocks for N-gram models include context-character paring and probability calculations.
+
 _**May 31, 2024**_  
 Starting a small-size N-gram language model training.
 
