@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 3, 2024**_  
+Building helper functions today for predicting next char based on N-gram contexts :)
+
 _**June 2, 2024**_  
 Building blocks for N-gram models include context-character paring and probability calculations.
 
