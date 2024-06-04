@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 4, 2024**_  
+Trained n-gram models on some sample Shakespear texts. The predictions do resemble Shakespear, although they don't mean anything.
+
 _**June 3, 2024**_  
 Building helper functions today for predicting next char based on N-gram contexts :)
 
