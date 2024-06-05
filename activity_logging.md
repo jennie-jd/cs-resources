@@ -2,6 +2,12 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+
+
+_**June 5, 2024**_  
+N-gram interpolation uses a weighted approach to mix different sized n-grams, i.e., using various n values.
+Next comment: using n-gram for classifications
+
 _**June 4, 2024**_  
 Trained n-gram models on some sample Shakespear texts. The predictions do resemble Shakespear, although they don't mean anything.
 
