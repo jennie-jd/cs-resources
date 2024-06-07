@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 7, 2024**_  
+Text processing like adding an ending special character helps to distinguish entry boundaries when we use n-gram models to perform classification tasks
+
 _**June 6, 2024**_  
 N-gram can be used for classification tasks by training multiple n-grams and looking for the lowest perplexity model when it comes to predictions.
 Next comment: text processing like adding special character to distinguish boundaries help
