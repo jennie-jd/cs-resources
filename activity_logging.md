@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 8, 2024**_  
+Vestor space models - vectorization of words help to capture the similarity and contexts for words, which builds the foundation for language models
+
 _**June 7, 2024**_  
 Text processing like adding an ending special character helps to distinguish entry boundaries when we use n-gram models to perform classification tasks
 
