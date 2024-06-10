@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 9, 2024**_  
+Learned about word-by-document (term-document matrix) and word-by-word (term-content matrix) vectors
+
 _**June 8, 2024**_  
 Vestor space models - vectorization of words help to capture the similarity and contexts for words, which builds the foundation for language models
 
