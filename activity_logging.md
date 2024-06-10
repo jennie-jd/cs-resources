@@ -2,6 +2,10 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 10, 2024**_  
+It's necessary to normalize the matrix so that a word's frequencies do not influence its significance. The common approaches include PPMI and tf-idf transformations.
+Next topic: similarity metrics
+
 _**June 9, 2024**_  
 Learned about word-by-document (term-document matrix) and word-by-word (term-content matrix) vectors
 
