@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 12, 2024**_  
+Learning about advanced vector space models this week.
+
 _**June 11, 2024**_  
 Develop similarity metrics (cosine, jaccard, dice, etc.) to evaluate which documents are similar, or which words are similar.
 
