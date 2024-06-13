@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 13, 2024**_  
+Vector space models can be used to solve analogy problems.
+
 _**June 12, 2024**_  
 Learning about advanced vector space models this week.
 
