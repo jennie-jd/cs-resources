@@ -2,6 +2,13 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 14, 2024**_  
+There are many goals for semantic models like word sense, hypernymy, compositionality, grounding, logical inference, context dependence, that are not satisfied by current techniques. These areas are being researched as of today. 
+
+In other words, our language models still lack the ability to actually "understand" meanings or contexts. 
+
+In my opinion, these issues may not be resolved for another many years or may not be resolved at all.
+
 _**June 13, 2024**_  
 Vector space models can be used to solve analogy problems.
 
