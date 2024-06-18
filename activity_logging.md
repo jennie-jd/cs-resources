@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 18, 2024**_  
+Learning again about perceptron models and neural network models for natural language training.
+
 _**June 16, 2024**_  
 Used vectorization of words to cluster target words paraphrases into different clusters. For example, "apple" can mean a fruit or a computing device. Made use of the sklearn library to run clustering algorithms.
 
