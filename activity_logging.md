@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 19, 2024**_  
+Learning the mathematic notations for multi-layer models.
+
 _**June 18, 2024**_  
 Learning again about perceptron models and neural network models for natural language training.
 
