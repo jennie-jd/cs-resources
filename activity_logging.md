@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 23, 2024**_  
+Learning pytorch's nn.Module for defining neural networks.
+
 _**June 21, 2024**_  
 Learning pytorch for the first time, which seems powerful but somewhat difficult to grasp at first.
 
