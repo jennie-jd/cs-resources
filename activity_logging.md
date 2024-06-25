@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 25, 2024**_  
+Trained some RNN models with pytorch.
+
 _**June 24, 2024**_  
 It's impressive and surprising to me that libraries like pytorch has enabled everyone to train large neural network models.Google Colab allows users to use NVIDIA GPUs to run the extremely large models (but it has rate limits). I believe that as technology advances, more tools and libraries will be built, GPUs will become cheaper, and average people will have access to a variety of appliations to create things on their own - movies, music, personal utility tools and so on.
 
