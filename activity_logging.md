@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 27, 2024**_  
+The models are downloaded from hugging face.
+
 _**June 26, 2024**_  
 Learning about pre-trained transformer models this week!
 
