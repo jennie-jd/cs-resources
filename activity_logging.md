@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 26, 2024**_  
+Learning about pre-trained transformer models this week!
+
 _**June 25, 2024**_  
 Trained some RNN models with pytorch.
 
