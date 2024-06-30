@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**June 30, 2024**_  
+Learning about parts of speech this week.
+
 _**June 29, 2024**_  
 RNN networks can "memorize" histories by keeping a part of the history in the parameters, but they are also prone to not being able to forget irrelavant histories.
 
