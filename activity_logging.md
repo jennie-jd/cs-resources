@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 1, 2024**_  
+Learning about HMM hidden markov model for parts of speeh tagging.
+
 _**June 30, 2024**_  
 Learning about parts of speech this week.
 
