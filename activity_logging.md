@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 2, 2024**_  
+Continue to learn about the transformer model this week. The paper was first published by Google researchers.
+
 _**July 1, 2024**_  
 Learning about HMM hidden markov model for parts of speeh tagging.
 
