@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 3, 2024**_  
+First step is to learn about the attension mechanism in transformer models.
+
 _**July 2, 2024**_  
 Continue to learn about the transformer model this week. The paper was first published by Google researchers.
 
