@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 5, 2024**_  
+Attention is designed to let words be pulled towards the context in their vector representations.
+
 _**July 3, 2024**_  
 First step is to learn about the attention mechanism in transformer models.
 
