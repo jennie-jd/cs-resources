@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 7, 2024**_  
+Learning about fining tuning BERT models.
+
 _**July 6, 2024**_  
 Attention is the key invention that leads to transformer models working so well.
 
