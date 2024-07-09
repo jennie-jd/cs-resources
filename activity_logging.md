@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 9, 2024**_  
+BERT can be fined-tuned to do classification tasks too.
+
 _**July 8, 2024**_  
 Fine-tuning BERT involves giving it specific training examples in Q&A format, so it learns this pattern.
 
