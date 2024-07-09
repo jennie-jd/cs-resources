@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 8, 2024**_  
+Fine-tuning BERT involves giving it specific training examples in Q&A format, so it learns this pattern.
+
 _**July 7, 2024**_  
 Learning about fining tuning BERT models.
 
