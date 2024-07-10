@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 10, 2024**_  
+Fined tuned BERT models can do sequence classification, sequence pair classification, and token classification.
+
 _**July 9, 2024**_  
 BERT can be fined-tuned to do classification tasks too.
 
