@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 11, 2024**_  
+Encoder decoder is a framework used to apply NN to sequence generation tasks.
+
 _**July 10, 2024**_  
 Fined tuned BERT models can do sequence classification, sequence pair classification, and token classification.
 
