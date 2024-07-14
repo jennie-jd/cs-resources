@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 13, 2024**_  
+Learning about bidirectional models and their difference with autoregressive models.
+
 _**July 12, 2024**_  
 As an example, the encoder-decoder framework is utilized for tasks such as machine translation, where the encoder processes the input sequence (source language) and converts it into a fixed-length context vector, which the decoder then uses to generate the output sequence (target language). This approach, along with the attention mechanism, was foundational in enhancing performance in text summarization, image captioning, and speech recognition.
 
