@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 14, 2024**_  
+Reinforcement learning is not used in the pre-training of these LLMs, but is used in the fune-tuning / application layers.
+
 _**July 13, 2024**_  
 Learning about bidirectional models and their difference with autoregressive models.
 
