@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 15, 2024**_  
+Because LLMs mainly generate results based on probability outputs, we don't know if they really understand the "meaning" of the generates texts. Therefore, there are fact-checking techniques being studied nowadays to improve the chance of correct answers, including RAG - Retrieval Augmented Generation.
+
 _**July 14, 2024**_  
 Reinforcement learning is not used in the pre-training of these LLMs, but is used in the fune-tuning / application layers.
 
