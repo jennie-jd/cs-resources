@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 16, 2024**_  
+Retrieval Augmented Generation (RAG) means that the model issues a search query to the web, and then chooses which result to display - either the web-retrieved answer or one of the model-generated answers. There is still a chance for the model to "prefer" rendering the model generated answer, which may be incorrect.
+
 _**July 15, 2024**_  
 Because LLMs mainly generate results based on probability outputs, we don't know if they really understand the "meaning" of the generates texts. Therefore, there are fact-checking techniques being studied nowadays to improve the chance of correct answers, including RAG - Retrieval Augmented Generation.
 
