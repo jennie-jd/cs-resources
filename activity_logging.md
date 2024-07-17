@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 17, 2024**_  
+RAG is also vulnerable to wrong information on the internet. If the retrieved results are fake, the model will not be able to return correct results either. 
+
 _**July 16, 2024**_  
 Retrieval Augmented Generation (RAG) means that the model issues a search query to the web, and then chooses which result to display - either the web-retrieved answer or one of the model-generated answers. There is still a chance for the model to "prefer" rendering the model generated answer, which may be incorrect.
 
