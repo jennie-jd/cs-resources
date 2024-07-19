@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 19, 2024**_  
+A more expensive way is to fact-check after the texts have been generated. 
+
 _**July 18, 2024**_  
 Another way to improve accuracy is to fact-check during the reinforcement process, which is the layer after the pre-trained transformers layers. 
 
