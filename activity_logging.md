@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 18, 2024**_  
+Another way to improve accuracy is to fact-check during the reinforcement process, which is the layer after the pre-trained transformers layers. 
+
 _**July 17, 2024**_  
 RAG is also vulnerable to wrong information on the internet. If the retrieved results are fake, the model will not be able to return correct results either. 
 
