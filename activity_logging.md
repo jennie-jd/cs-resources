@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 20, 2024**_  
+Learning to use open AI API again. 
+
 _**July 19, 2024**_  
 A more expensive way is to fact-check after the texts have been generated. 
 
