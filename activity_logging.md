@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 21, 2024**_  
+Learning about prompt engineering, a different way to customize model usages than fine-tuning.
+
 _**July 20, 2024**_  
 Learning to use open AI API again. 
 
