@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 22, 2024**_  
+Few-shot prompting give a few examples to help the model understand the pattern we are looking for, so it performs better than zero-shot prompting.
+
 _**July 21, 2024**_  
 Learning about prompt engineering, a different way to customize model usages than fine-tuning.
 
