@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 23, 2024**_  
+But even with just Zero-shot prompting, if we tweak the wordings to give more guidance on contexts or styles, the model would perform better.
+
 _**July 22, 2024**_  
 Few-shot prompting give a few examples to help the model understand the pattern we are looking for, so it performs better than zero-shot prompting.
 
