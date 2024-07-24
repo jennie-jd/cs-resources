@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 24, 2024**_  
+Chaine of though prompting is even more powerful than few-shot prompting.
+
 _**July 23, 2024**_  
 But even with just Zero-shot prompting, if we tweak the wordings to give more guidance on contexts or styles, the model would perform better.
 
