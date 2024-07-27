@@ -2,10 +2,10 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
-_**July 25, 2024**_  
+_**July 27, 2024**_  
 Machine translation can be more easily done nowadays with LLM's help.
 
-_**July 24, 2024**_  
+_**July 26, 2024**_  
 Learning about machine translation tasks this week.
 
 _**July 24, 2024**_  
