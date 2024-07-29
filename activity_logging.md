@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 28, 2024**_  
+Working on an exercise to use Open AI API.
+
 _**July 27, 2024**_  
 Machine translation can be more easily done nowadays with LLM's help.
 
