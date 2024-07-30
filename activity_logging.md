@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 30, 2024**_  
+One way to simplfy a sentence is to exchange complex words into simple words.
+
 _**July 29, 2024**_  
 The task is to fine-tune a model to produce a simpler version of a complex sentence.
 
