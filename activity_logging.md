@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 29, 2024**_  
+The task is to fine-tune a model to produce a simpler version of a complex sentence.
+
 _**July 28, 2024**_  
 Working on an exercise to use Open AI API.
 
