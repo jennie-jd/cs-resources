@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**July 31, 2024**_  
+Another way to simplify sentence is to break down long sentences into shorter expressions with independent meanings.
+
 _**July 30, 2024**_  
 One way to simplfy a sentence is to exchange complex words into simple words.
 
