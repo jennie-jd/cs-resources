@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 4, 2024**_  
+Creating fine-tuning models to be compared with zero-shot learning and few-shot learning results.
+
 _**July 31, 2024**_  
 Another way to simplify sentence is to break down long sentences into shorter expressions with independent meanings.
 
