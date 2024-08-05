@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 5, 2024**_  
+Recent GPT models are better at zero-shot and few-shot than fine-tuning of past GPT models.
+
 _**August 4, 2024**_  
 Creating fine-tuning models to be compared with zero-shot learning and few-shot learning results.
 
