@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 6, 2024**_  
+Base LLM model, number of training examples influence the effectiveness of fine-tuned models.
+
 _**August 5, 2024**_  
 Recent GPT models are better at zero-shot and few-shot than fine-tuning of past GPT models.
 
