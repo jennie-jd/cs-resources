@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 7, 2024**_  
+Reviewed the concept of multi-head attention. It usually performs better than single head attention.
+
 _**August 6, 2024**_  
 Base LLM model, number of training examples influence the effectiveness of fine-tuned models.
 
