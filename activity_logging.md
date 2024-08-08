@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 8, 2024**_  
+Multi-head attention has multiple heads to capture different K, Q, V matrices for the same sentence inputs. The assumption is that different heads may capture different patterns, although there is no direct explanation of what the patterns actually are.
+
 _**August 7, 2024**_  
 Reviewed the concept of multi-head attention. It usually performs better than single head attention.
 
