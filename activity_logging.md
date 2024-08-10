@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 9, 2024**_  
+BLEU is a metric to automatically evaluate the quality of machine translation systems.
+
 _**August 8, 2024**_  
 Multi-head attention has multiple heads to capture different K, Q, V matrices for the same sentence inputs. The assumption is that different heads may capture different patterns, although there is no direct explanation of what the patterns actually are.
 
