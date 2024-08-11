@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 10, 2024**_  
+Learning about chatbots and question & answer systems.
+
 _**August 9, 2024**_  
 BLEU is a metric to automatically evaluate the quality of machine translation systems.
 
