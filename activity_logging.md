@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 11, 2024**_  
+Learning about knowledge base.
+
 _**August 10, 2024**_  
 Learning about chatbots and question & answer systems.
 
