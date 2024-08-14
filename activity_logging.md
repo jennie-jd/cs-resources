@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 14, 2024**_  
+Learning about parsing and dependency parsing.
+
 _**August 13, 2024**_  
 Traditional NLP has a lot to do with syntax studying.
 
