@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 13, 2024**_  
+Traditional NLP has a lot to do with syntax studying.
+
 _**August 12, 2024**_  
 Learning about information extraction.
 
