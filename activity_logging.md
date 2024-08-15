@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 15, 2024**_  
+A recent development in NLP is Multimodal NLP - a growing emphasis on integrating text with other data types such as images, audio, and video, which allows for more comprehensive applications like enhanced virtual assistants and improved content generation.
+
 _**August 14, 2024**_  
 Learning about parsing and dependency parsing.
 
