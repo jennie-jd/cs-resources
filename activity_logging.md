@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 18, 2024**_  
+(Continued) For example, in virtual assistants, integrating visual data can allow the system to not only respond to text queries but also to interpret and generate responses based on images or videos provided by the user. This can lead to more interactive and contextually aware applications. Similarly, for content generation, multimodal models can create richer and more engaging outputs by blending text with relevant visuals or audio, improving the overall user experience.
+
 _**August 15, 2024**_  
 A recent development in NLP is Multimodal NLP - a growing emphasis on integrating text with other data types such as images, audio, and video, which allows for more comprehensive applications like enhanced virtual assistants and improved content generation.
 
