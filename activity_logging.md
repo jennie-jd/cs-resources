@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 19, 2024**_  
+Read an interesting article saying that hundreds of millions of people have tried ChatGPT but have not been back. It raises question about if product-market fit has to be done to really make use of large language models.
+
 _**August 18, 2024**_  
 (Continued) For example, in virtual assistants, integrating visual data can allow the system to not only respond to text queries but also to interpret and generate responses based on images or videos provided by the user. This can lead to more interactive and contextually aware applications. Similarly, for content generation, multimodal models can create richer and more engaging outputs by blending text with relevant visuals or audio, improving the overall user experience.
 
