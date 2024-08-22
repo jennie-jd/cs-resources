@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 22, 2024**_  
+Heard from bb news that some in the industry believe open source LLMs are the growth engines because a general LLM like ChatGPT proves not to be the way that GenAI will develop.
+
 _**August 19, 2024**_  
 Read an interesting article saying that hundreds of millions of people have tried ChatGPT but have not been back. It raises question about if product-market fit has to be done to really make use of large language models.
 
