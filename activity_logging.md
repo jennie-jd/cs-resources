@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 23, 2024**_  
+Some recent news are saying the AI hype is cooling, but I think there are many more app developments that can be done over the next ten years, so the growth will come but at a slower pace than imagined.
+
 _**August 22, 2024**_  
 Heard from bb news that some in the industry believe open source LLMs are the growth engines because a general LLM like ChatGPT proves not to be the way that GenAI will develop.
 
