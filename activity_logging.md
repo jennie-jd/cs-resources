@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 24, 2024**_  
+With the fed planning to cut interest rates, we hopefully will see more growth in the tech sector.
+
 _**August 23, 2024**_  
 Some recent news are saying the AI hype is cooling, but I think there are many more app developments that can be done over the next ten years, so the growth will come but at a slower pace than imagined.
 
