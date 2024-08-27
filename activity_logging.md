@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 26, 2024**_
+California has an AI bill requiring 'watermarking' of synthetic content.
+
 _**August 24, 2024**_  
 With the fed planning to cut interest rates, we hopefully will see more growth in the tech sector.
 
