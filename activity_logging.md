@@ -2,7 +2,7 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
-_**August 26, 2024**_
+_**August 26, 2024**_. 
 California has an AI bill requiring 'watermarking' of synthetic content.
 
 _**August 24, 2024**_  
