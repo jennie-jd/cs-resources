@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**August 31, 2024**_  
+NVIDIA's latest earnings release show strong growth, but the stock dropped 4% because the results were not "exceeding expectations" and the growth slowed compared to previously. However, the upcoming blackwell chips are still highly anticipated.
+
 _**August 27, 2024**_  
 Applications are being made in the vertical industries.
 
