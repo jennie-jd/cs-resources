@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**September 1, 2024**_  
+California's SB 1047, a controversial bill that would impose liability on AI developers, has recently passed in the State's Assembly and Senate.
+
 _**August 31, 2024**_  
 NVIDIA's latest earnings release show strong growth, but the stock dropped 4% because the results were not "exceeding expectations" and the growth slowed compared to previously. However, the upcoming blackwell chips are still highly anticipated.
 
