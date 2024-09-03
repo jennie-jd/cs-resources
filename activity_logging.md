@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**September 2, 2024**_  
+Read an article about VR. VR winter is continuing because the current devices are not good enough or cheap enough to attract wider user bases. 
+
 _**September 1, 2024**_  
 California's SB 1047, a controversial bill that would impose liability on AI developers, has recently passed in the State's Assembly and Senate.
 
