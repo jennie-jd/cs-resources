@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**October 18, 2024**_  
+Recently NVDA price has reached a new high because its production bottleneck was not as bad as investors thought. The expectation for AI growth is still continuing. 
+
 _**September 12, 2024**_  
 Apple has just released iphone 16, which boasts the ability to leverage artificial intelligence. People are still trying to test what iphone 16 can do. 
 
