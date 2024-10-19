@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**October 19, 2024**_  
+A recent new trend in AI investments is medical chatbots, which I've imagined to be upcoming last year.
+
 _**October 18, 2024**_  
 Recently NVDA price has reached a new high because its production bottleneck was not as bad as investors thought. The expectation for AI growth is still continuing. 
 
