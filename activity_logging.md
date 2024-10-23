@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**October 23, 2024**_  
+Economic projections are mixed. Some bank's economists think the world's growth will be hindered by regional conflicts and war, while other banks think that there is still room for S&P to grow in the next decade.
+
 _**October 19, 2024**_  
 A recent new trend in AI investments is medical chatbots, which I've imagined to be upcoming last year.
 
