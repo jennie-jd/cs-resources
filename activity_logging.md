@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**October 26, 2024**_  
+Last month, there has been news that the US DOJ has sued Google for monopoly. The result of this case will be important.
+
 _**October 23, 2024**_  
 Economic projections are mixed. Some bank's economists think the world's growth will be hindered by regional conflicts and war, while other banks think that there is still room for S&P to grow in the next decade.
 
