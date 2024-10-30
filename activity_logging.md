@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**October 30, 2024**_  
+Meta and Microsoft earnings beat estimates. Both companies are either spending a lot on AI, or see AI growth continuing.
+
 _**October 27, 2024**_  
 Tech earnings are coming up. I am curious about how companies like Microsoft, Google are doing ever since they deployed the strategies to invest in AI a couple of years ago. Have they started to make profits out of the AI investments? Do they still plan to save costs on the human side, or do they realize humans remain necessary? These are all interesting questions to know.
 
