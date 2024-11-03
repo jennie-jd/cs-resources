@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 2, 2024**_  
+Apple's iphone sales, which claimed to be equipped with the last AI technologies, failed to impress investors.
+
 _**October 30, 2024**_  
 Meta and Microsoft earnings beat estimates. Both companies are either spending a lot on AI, or see AI growth continuing.
 
