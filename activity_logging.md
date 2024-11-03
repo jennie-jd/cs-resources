@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 3, 2024**_  
+The election day is coming up this week. Polls will close after Tuesday Nov 5.
+
 _**November 2, 2024**_  
 Apple's iphone sales, which claimed to be equipped with the last AI technologies, failed to impress investors.
 
