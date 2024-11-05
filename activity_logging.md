@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 5, 2024**_  
+Today is the Election Day, when the polls will close for the presidential election.
+
 _**November 3, 2024**_  
 The election day is coming up this week. Polls will close after Tuesday Nov 5.
 
