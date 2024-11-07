@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 7, 2024**_  
+Stocks have risen and bond yields have jumped after the election result comes out.
+
 _**November 5, 2024**_  
 Today is the Election Day, when the polls will close for the presidential election.
 
