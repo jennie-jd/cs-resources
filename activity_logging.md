@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 10, 2024**_  
+I changed my digital subscription to WSJ instead of Disney+ because WSJ is more useful to me.
+
 _**November 7, 2024**_  
 Stocks have risen and bond yields have jumped after the election result comes out.
 
