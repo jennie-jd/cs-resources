@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 11, 2024**_  
+A news says that users have developed habits to pause streaming subscriptions (Netflix, Disney+ etc.) and return within a year in order to get deals.
+
 _**November 10, 2024**_  
 I changed my digital subscription to WSJ instead of Disney+ because WSJ is more useful to me.
 
