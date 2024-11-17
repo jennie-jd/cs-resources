@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 17, 2024**_  
+Some analysts have expressed concerns that the stock market is over-valued as of now, so there might be a crash at some point.
+
 _**November 16, 2024**_  
 Bitcoin recently reached an all time high of $80,000 USD.
 
