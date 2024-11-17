@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 16, 2024**_  
+Bitcoin recently reached an all time high of $80,000 USD.
+
 _**November 11, 2024**_  
 A news says that users have developed habits to pause streaming subscriptions (Netflix, Disney+ etc.) and return within a year in order to get deals.
 
