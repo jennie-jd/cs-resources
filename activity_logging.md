@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 18, 2024**_  
+According to interviews, NVDA says that its new Blackwell chip is selling well.
+
 _**November 17, 2024**_  
 Some analysts have expressed concerns that the stock market is over-valued as of now, so there might be a crash at some point.
 
