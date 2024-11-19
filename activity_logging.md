@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 19, 2024**_  
+NVDA stock has risen before tomorrow's earnings.
+
 _**November 18, 2024**_  
 According to interviews, NVDA says that its new Blackwell chip is selling well.
 
