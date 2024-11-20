@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 20, 2024**_  
+Market is anticipating big moves after NVDA releases earnings today.
+
 _**November 19, 2024**_  
 NVDA stock has risen before tomorrow's earnings.
 
