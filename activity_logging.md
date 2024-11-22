@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 22, 2024**_  
+Bitcoin rose to $98,000 recently, which is very high.
+
 _**November 21, 2024**_  
 NVDA sales exceeded median estimate but fell short of the highest estimate. The stock remained at about the same level ($145) the day after earnings.
 
