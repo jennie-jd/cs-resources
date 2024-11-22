@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 21, 2024**_  
+NVDA sales exceeded median estimate but fell short of the highest estimate. The stock remained at about the same level ($145) the day after earnings.
+
 _**November 20, 2024**_  
 Market is anticipating big moves after NVDA releases earnings today.
 
