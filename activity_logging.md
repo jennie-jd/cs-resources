@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 23, 2024**_  
+Some bullish case thinks that 1 Bitcoin could be worth $3.8m by 2030.
+
 _**November 22, 2024**_  
 Bitcoin rose to $98,000 recently, which is very high.
 
