@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**November 30, 2024**_  
+Just read a wsj article about PIP becoming a more frequent way of firing people, but both employees and managers dislike it.
+
 _**November 23, 2024**_  
 Some bullish case thinks that 1 Bitcoin could be worth $3.8m by 2030.
 
