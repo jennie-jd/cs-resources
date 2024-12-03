@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 3, 2024**_  
+I learned that video game developers use game engines to develop games, instead of writing code from ground up.
+
 _**December 2, 2024**_  
 News says that Amazon is looking for an alternative chip provider than NVDA to reduce its relliance on NVDA.
 
