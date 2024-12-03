@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 2, 2024**_  
+News says that Amazon is looking for an alternative chip provider than NVDA to reduce its relliance on NVDA.
+
 _**November 30, 2024**_  
 Just read a wsj article about PIP becoming a more frequent way of firing people, but both employees and managers dislike it.
 
