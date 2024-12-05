@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 5, 2024**_  
+Bitcoin's price has passed $100,000 in recent days.
+
 _**December 3, 2024**_  
 I learned that video game developers use game engines to develop games, instead of writing code from ground up.
 
