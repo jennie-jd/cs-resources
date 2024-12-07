@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 7, 2024**_  
+Bitcoin's price is still above $100,000 as of now.
+
 _**December 5, 2024**_  
 Bitcoin's price has passed $100,000 in recent days.
 
