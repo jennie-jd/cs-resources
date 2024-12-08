@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 8, 2024**_  
+Fun fact today: the restaurant rating program Michelin Stars is indeed started and owned by the tire company.
+
 _**December 7, 2024**_  
 Bitcoin's price is still above $100,000 as of now.
 
