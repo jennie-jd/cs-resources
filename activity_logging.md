@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 9, 2024**_  
+Bitcoin still has fluctuations because I saw its price dropped down to about $96,000 today.
+
 _**December 8, 2024**_  
 Fun fact today: the restaurant rating program Michelin Stars is indeed started and owned by the tire company.
 
