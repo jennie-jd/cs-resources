@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 14, 2024**_  
+Because of the expectation of more tariffs next year, some consumers are stockpiling goods from other countries now.
+
 _**December 9, 2024**_  
 Bitcoin still has fluctuations because I saw its price dropped down to about $96,000 today.
 
