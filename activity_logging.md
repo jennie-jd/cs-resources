@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 15, 2024**_  
+Some mysterious drones appear on the sky of New Jersey counties and caused concerns from the residents.
+
 _**December 14, 2024**_  
 Because of the expectation of more tariffs next year, some consumers are stockpiling goods from other countries now.
 
