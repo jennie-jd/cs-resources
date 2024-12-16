@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 16, 2024**_  
+The last fed meeting for 2024 is this week.
+
 _**December 15, 2024**_  
 Some mysterious drones appear on the sky of New Jersey counties and caused concerns from the residents.
 
