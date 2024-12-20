@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**December 20, 2024**_  
+The fed announced another rate cut but said the cuts may be fewer next year because of continued inflation concerns.
+
 _**December 16, 2024**_  
 The last fed meeting for 2024 is this week.
 
