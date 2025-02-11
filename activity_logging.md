@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**Feb 10, 2025**_  
+The Fed kept the interest rate unchanged at the January meeting (4.25% - 4.5%). There can be a lot of changes in policies after the inauguration.
+
 _**Jan 12, 2025**_  
 Los Angeles has had a very bad wild fire.
 
