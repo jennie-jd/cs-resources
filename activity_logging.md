@@ -2,6 +2,9 @@
 
 Future **To Do** items are marked in bold to remind myself.
 
+_**Feb 19, 2025**_  
+The Fed is not planning to reduce rate in the near term.
+
 _**Feb 11, 2025**_  
 DeepSeek released AI models that cost less than previous AI models (e.g. by OpenAI), and the DeepSeek model is open source. This could fuel AI adoptions by differenct industries and entities.
 
